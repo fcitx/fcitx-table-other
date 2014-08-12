@@ -1,0 +1,19 @@
+[CodeTable]
+UniqueName=french
+_Name=méthode d'entrée français
+IconName=fr-input
+File=fr.mb
+AdjustOrder=AdjustFreq
+Priority=100
+UsePY=False
+AutoSend=0
+NoneMatchAutoSend=0
+UseMatchingKey=True
+#AutoPhrase=False
+#AutoPhraseLength=4
+#AutoPhrasePhrase=False
+#SaveAutoPhrase=3
+ExactMatch=False
+PromptTableCode=False
+LangCode=fr
+Enabled=True
