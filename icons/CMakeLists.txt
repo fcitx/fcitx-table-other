@@ -2,7 +2,8 @@ set(ICON24 fcitx-amharic.png fcitx-arabic.png)
 set(ICON32 fcitx-thai.png)
 set(ICON48 fcitx-compose.png fcitx-emoji.png fcitx-ipa-x-sampa.png
   fcitx-latex.png fcitx-rustrad.png fcitx-translit.png fcitx-translit-ua.png
-  fcitx-yawerty.png fcitx-malayalam-phonetic.png fcitx-tamil-remington.png)
+  fcitx-yawerty.png fcitx-malayalam-phonetic.png fcitx-tamil-remington.png
+  fcitx-hieroglyphs.png)
 set(ICON64 fcitx-cns11643.png fcitx-viqr.png)
 
 if(ENABLE_DEPRECATED)
