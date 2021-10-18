@@ -28,6 +28,7 @@ set(TABLE_NAMES
   other/emoji
   other/ipa-x-sampa
   other/latex
+  other/yi
   uk/translit-ua
   ru/rustrad
   ru/translit
