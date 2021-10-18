@@ -1,14 +1,19 @@
 [CodeTable]
 UniqueName=hieroglyphs
 Name=Hieroglyphs
-Name[ca]=Hieroglyphs
-Name[da]=Hieroglyphs
-Name[de]=Hieroglyphs
-Name[ja]=Hieroglyphs
-Name[ko]=Hieroglyphs
-Name[ru]=Hieroglyphs
-Name[zh_CN]=Hieroglyphs
-Name[zh_TW]=Hieroglyphs
+Name[ar]=الهيروغليفية
+Name[ca]=Jeroglífics
+Name[da]=Hieroglyffer
+Name[de]=Hieroglyphen
+Name[es]=Jeroglíficos
+Name[fr]=Hiéroglyphes
+Name[he]=הִיֵרוֹגלִיפִים
+Name[ja]=象形文字
+Name[ko]=상형 문자
+Name[pt]=Hieróglifos
+Name[ru]=Иероглифы
+Name[zh_CN]=象形文字
+Name[zh_TW]=象形文字
 IconName=hieroglyphs
 File=hieroglyphs.mb
 AdjustOrder=AdjustNo
